@@ -10,7 +10,7 @@ Before you begin, ensure you have:
 - Familiarity with basic Kubernetes concepts.
 - Access to the GCP Console.
 
-## Steps
+## Steps.
 
 Follow these steps to create a GKE cluster using the GCP Console:
 
